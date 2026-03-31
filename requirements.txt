@@ -1,1 +1,1 @@
-pip install streamlit python tensorflow numpy pandas matplotlib
+streamlit python tensorflow numpy pandas matplotlib
